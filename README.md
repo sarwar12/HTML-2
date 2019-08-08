@@ -23,7 +23,7 @@
 	26. Table Foot Tag <tfoot><tfoot> (Any table Data or table heading showing down/foot )
 	27. Table body Tag <tbody></tbody> (Any table data showing or placement up)
 	28. Table head Tag <thead></thead>
-	---------------------------------------------------------------------------------------------------------------------------
+	
 
 ###Attributes::
 	Table= width, height, border(value 0 without border), cellpadding, cellspacing,
