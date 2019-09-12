@@ -26,10 +26,10 @@
 	
 
 ###Attributes::
-	Table= width, height, border(value 0 without border), cellpadding, cellspacing,
-	Caption= Align
-	Tr,Th,Td = align, calspan, Rowspan
-	Tbody+Tfoot+Thead= valign (top,middle, bottom) (you must used height attribute of table tag then its work )
+	Table = width, height, border(value 0 without border), cellpadding, cellspacing,
+	Caption = Align
+	Tr,Th,Td = align, calspan, rowspan
+	Tbody+Tfoot+Thead = valign (top,middle, bottom) (you must used height attribute of table tag then its work )
 
 
 ### You Can use style attibutes or inline css every start Tag: 
@@ -39,5 +39,6 @@
 	=> select you code and press right button and block comment
 		<!-- Any content this suitable for your coding-->
 
+***
 ## G_SARWAR
 ### Web_Instructor
